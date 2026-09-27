@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#fff4ea"/>
+  <circle cx="220" cy="220" r="90" fill="#16325c"/>
+  <rect x="360" y="150" width="300" height="160" rx="16" fill="#ffffff" stroke="#16325c" stroke-width="8"/>
+  <text x="400" y="380" text-anchor="middle" fill="#16325c" font-size="26" font-family="Meiryo, sans-serif" font-weight="700">�;�a����</text>
+  <text x="400" y="420" text-anchor="middle" fill="#5b6776" font-size="16" font-family="Meiryo, sans-serif">images/guide-flow.jpg x�W�H��</text>
+</svg>

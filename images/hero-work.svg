@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">PC�S\mn�;�</title>
+  <desc id="desc">���W�H��n��������</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b3a63"/>
+      <stop offset="1" stop-color="#0f2444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <g opacity="0.25" fill="none" stroke="#9ec0ea" stroke-width="3">
+    <rect x="120" y="160" width="420" height="280" rx="16"/>
+    <circle cx="820" cy="280" r="110"/>
+    <path d="M620 520h360M620 560h240M180 540h280"/>
+    <rect x="700" y="470" width="280" height="160" rx="12"/>
+  </g>
+  <text x="80" y="360" fill="#ffffff" font-size="42" font-family="Meiryo, sans-serif" font-weight="700">�;�PC�S\m</text>
+  <text x="80" y="420" fill="#ffd7b0" font-size="26" font-family="Meiryo, sans-serif">images/hero-work.jpg x�W�H��</text>
+</svg>
